@@ -1,0 +1,51 @@
+C:\Users\Jean\Desktop\WEB升级工具\WEB Upgrade Tool\WEB Upgrade Tool\bin\Debug\WEB Upgrade Tool.exe
+C:\Users\Jean\Desktop\WEB升级工具\WEB Upgrade Tool\WEB Upgrade Tool\bin\Debug\WEB Upgrade Tool.pdb
+C:\Users\Jean\Desktop\WEB升级工具\WEB Upgrade Tool\WEB Upgrade Tool\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jean\Desktop\WEB升级工具\WEB Upgrade Tool\WEB Upgrade Tool\obj\x86\Debug\WEB_Upgrade_Tool.Form1.resources
+C:\Users\Jean\Desktop\WEB升级工具\WEB Upgrade Tool\WEB Upgrade Tool\obj\x86\Debug\WEB_Upgrade_Tool.Properties.Resources.resources
+C:\Users\Jean\Desktop\WEB升级工具\WEB Upgrade Tool\WEB Upgrade Tool\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Jean\Desktop\WEB升级工具\WEB Upgrade Tool\WEB Upgrade Tool\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Jean\Desktop\WEB升级工具\WEB Upgrade Tool\WEB Upgrade Tool\obj\x86\Debug\WEB Upgrade Tool.exe
+C:\Users\Jean\Desktop\WEB升级工具\WEB Upgrade Tool\WEB Upgrade Tool\obj\x86\Debug\WEB Upgrade Tool.pdb
+E:\1.work project\Software\RAK\RAK415 WEB升级工具\WEB升级工具\WEB Upgrade Tool\WEB Upgrade Tool\obj\x86\Debug\WEB Upgrade Tool.exe
+E:\1.work project\Software\RAK\RAK415 WEB升级工具\WEB升级工具\WEB Upgrade Tool\WEB Upgrade Tool\obj\x86\Debug\WEB Upgrade Tool.pdb
+E:\1.work project\Software\RAK\RAK415 WEB升级工具\WEB升级工具\WEB Upgrade Tool\WEB Upgrade Tool\bin\Debug\WEB Upgrade Tool.exe
+E:\1.work project\Software\RAK\RAK415 WEB升级工具\WEB升级工具\WEB Upgrade Tool\WEB Upgrade Tool\bin\Debug\WEB Upgrade Tool.pdb
+E:\1.work project\Software\RAK\RAK415 WEB升级工具\WEB升级工具\WEB Upgrade Tool\WEB Upgrade Tool\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\1.work project\Software\RAK\RAK415 WEB升级工具\WEB升级工具\WEB Upgrade Tool\WEB Upgrade Tool\obj\x86\Debug\WEB_Upgrade_Tool.Form1.resources
+E:\1.work project\Software\RAK\RAK415 WEB升级工具\WEB升级工具\WEB Upgrade Tool\WEB Upgrade Tool\obj\x86\Debug\WEB_Upgrade_Tool.Properties.Resources.resources
+E:\1.work project\Software\RAK\RAK415 WEB升级工具\WEB升级工具\WEB Upgrade Tool\WEB Upgrade Tool\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\1.work project\Software\RAK\RAK415 WEB升级工具\WEB升级工具\WEB Upgrade Tool\WEB Upgrade Tool\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\1.work project\Software\RAK\RAK415\RAK415 WEB升级工具\WEB升级工具\WEB Upgrade Tool_V1.1\WEB Upgrade Tool\obj\x86\Debug\WEB Upgrade Tool.exe
+E:\1.work project\Software\RAK\RAK415\RAK415 WEB升级工具\WEB升级工具\WEB Upgrade Tool_V1.1\WEB Upgrade Tool\obj\x86\Debug\WEB Upgrade Tool.pdb
+E:\1.work project\Software\RAK\RAK415\RAK415 WEB升级工具\WEB升级工具\WEB Upgrade Tool_V1.1\WEB Upgrade Tool\bin\Debug\WEB Upgrade Tool.exe
+E:\1.work project\Software\RAK\RAK415\RAK415 WEB升级工具\WEB升级工具\WEB Upgrade Tool_V1.1\WEB Upgrade Tool\bin\Debug\WEB Upgrade Tool.pdb
+E:\1.work project\Software\RAK\RAK415\RAK415 WEB升级工具\WEB升级工具\WEB Upgrade Tool_V1.1\WEB Upgrade Tool\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\1.work project\Software\RAK\RAK415\RAK415 WEB升级工具\WEB升级工具\WEB Upgrade Tool_V1.1\WEB Upgrade Tool\obj\x86\Debug\WEB_Upgrade_Tool.Form1.resources
+E:\1.work project\Software\RAK\RAK415\RAK415 WEB升级工具\WEB升级工具\WEB Upgrade Tool_V1.1\WEB Upgrade Tool\obj\x86\Debug\WEB_Upgrade_Tool.Properties.Resources.resources
+E:\1.work project\Software\RAK\RAK415\RAK415 WEB升级工具\WEB升级工具\WEB Upgrade Tool_V1.1\WEB Upgrade Tool\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\1.work project\Software\RAK\RAK415\RAK415 WEB升级工具\WEB升级工具\WEB Upgrade Tool_V1.1\WEB Upgrade Tool\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\1.work project\Software\RAK\RAK415\RAK415 WEB升级工具\WEB升级工具\WEB Upgrade Tool_V1.2\WEB Upgrade Tool\obj\x86\Debug\WEB Upgrade Tool.exe
+E:\1.work project\Software\RAK\RAK415\RAK415 WEB升级工具\WEB升级工具\WEB Upgrade Tool_V1.2\WEB Upgrade Tool\obj\x86\Debug\WEB Upgrade Tool.pdb
+E:\1.work project\Software\RAK\RAK415\RAK415 WEB升级工具\WEB升级工具\WEB Upgrade Tool_V1.2\WEB Upgrade Tool\bin\Debug\WEB Upgrade Tool.exe
+E:\1.work project\Software\RAK\RAK415\RAK415 WEB升级工具\WEB升级工具\WEB Upgrade Tool_V1.2\WEB Upgrade Tool\bin\Debug\WEB Upgrade Tool.pdb
+E:\1.work project\Software\RAK\RAK415\RAK415 WEB升级工具\WEB升级工具\WEB Upgrade Tool_V1.2\WEB Upgrade Tool\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\1.work project\Software\RAK\RAK415\RAK415 WEB升级工具\WEB升级工具\WEB Upgrade Tool_V1.2\WEB Upgrade Tool\obj\x86\Debug\WEB_Upgrade_Tool.Form1.resources
+E:\1.work project\Software\RAK\RAK415\RAK415 WEB升级工具\WEB升级工具\WEB Upgrade Tool_V1.2\WEB Upgrade Tool\obj\x86\Debug\WEB_Upgrade_Tool.Properties.Resources.resources
+E:\1.work project\Software\RAK\RAK415\RAK415 WEB升级工具\WEB升级工具\WEB Upgrade Tool_V1.2\WEB Upgrade Tool\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\1.work project\Software\RAK\RAK415\RAK415 WEB升级工具\WEB升级工具\WEB Upgrade Tool_V1.2\WEB Upgrade Tool\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\1.work project\Software\RAK\RAK415\RAK415 WEB升级工具\WEB升级工具\WEB Upgrade Tool_V1.3\WEB Upgrade Tool\obj\x86\Debug\WEB Upgrade Tool.exe
+E:\1.work project\Software\RAK\RAK415\RAK415 WEB升级工具\WEB升级工具\WEB Upgrade Tool_V1.3\WEB Upgrade Tool\obj\x86\Debug\WEB Upgrade Tool.pdb
+D:\android-studio\RAK477\RAK477配置工具\RAK477 Upgrade Tool_V1.0\WEB Upgrade Tool\obj\x86\Debug\WEB Upgrade Tool.exe
+D:\android-studio\RAK477\RAK477配置工具\RAK477 Upgrade Tool_V1.0\WEB Upgrade Tool\obj\x86\Debug\WEB Upgrade Tool.pdb
+D:\android-studio\RAK477\RAK477配置工具\RAK477 Upgrade Tool_V1.0\WEB Upgrade Tool\bin\Debug\WEB Upgrade Tool.exe
+D:\android-studio\RAK477\RAK477配置工具\RAK477 Upgrade Tool_V1.0\WEB Upgrade Tool\bin\Debug\WEB Upgrade Tool.pdb
+D:\android-studio\RAK477\RAK477配置工具\RAK477 Upgrade Tool_V1.0\WEB Upgrade Tool\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\android-studio\RAK477\RAK477配置工具\RAK477 Upgrade Tool_V1.0\WEB Upgrade Tool\obj\x86\Debug\WEB_Upgrade_Tool.Form1.resources
+D:\android-studio\RAK477\RAK477配置工具\RAK477 Upgrade Tool_V1.0\WEB Upgrade Tool\obj\x86\Debug\WEB_Upgrade_Tool.Properties.Resources.resources
+D:\android-studio\RAK477\RAK477配置工具\RAK477 Upgrade Tool_V1.0\WEB Upgrade Tool\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\android-studio\RAK477\RAK477配置工具\RAK477 Upgrade Tool_V1.0\WEB Upgrade Tool\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\RAK 工具_PC\RAK477升级工具\RAK477 Upgrade Tool_V1.0\WEB Upgrade Tool\obj\x86\Debug\WEB Upgrade Tool.exe
+C:\Users\Administrator\Desktop\RAK 工具_PC\RAK477升级工具\RAK477 Upgrade Tool_V1.0\WEB Upgrade Tool\obj\x86\Debug\WEB Upgrade Tool.pdb
+E:\RAK 工具C#源文件\RAK477升级工具\RAK477 Upgrade Tool_V1.0\WEB Upgrade Tool\obj\x86\Debug\WEB Upgrade Tool.exe
+E:\RAK 工具C#源文件\RAK477升级工具\RAK477 Upgrade Tool_V1.0\WEB Upgrade Tool\obj\x86\Debug\WEB Upgrade Tool.pdb

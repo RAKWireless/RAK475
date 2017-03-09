@@ -1,0 +1,49 @@
+D:\Download\Source\Menu\CenterDialog_Src\CodeProject\DialogBox\bin\Debug\DialogBox.dll
+D:\Download\Source\Menu\CenterDialog_Src\CodeProject\DialogBox\bin\Debug\DialogBox.pdb
+D:\Download\Source\Menu\CenterDialog_Src\CodeProject\DialogBox\obj\Debug\ResolveAssemblyReference.cache
+D:\Download\Source\Menu\CenterDialog_Src\CodeProject\DialogBox\obj\Debug\DialogBox.dll
+D:\Download\Source\Menu\CenterDialog_Src\CodeProject\DialogBox\obj\Debug\DialogBox.pdb
+C:\Users\Administrator\Desktop\CenterWindow_TonyUpdate\DialogBox\bin\Debug\DialogBox.dll
+C:\Users\Administrator\Desktop\CenterWindow_TonyUpdate\DialogBox\bin\Debug\DialogBox.pdb
+C:\Users\Administrator\Desktop\CenterWindow_TonyUpdate\DialogBox\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\CenterWindow_TonyUpdate\DialogBox\obj\Debug\DialogBox.dll
+C:\Users\Administrator\Desktop\CenterWindow_TonyUpdate\DialogBox\obj\Debug\DialogBox.pdb
+C:\Users\Administrator\Desktop\RAK420扫描配置--中英文\RAK420 Config Tool\DialogBox\bin\Debug\DialogBox.dll
+C:\Users\Administrator\Desktop\RAK420扫描配置--中英文\RAK420 Config Tool\DialogBox\bin\Debug\DialogBox.pdb
+C:\Users\Administrator\Desktop\RAK420扫描配置--中英文\RAK420 Config Tool\DialogBox\obj\Debug\DialogBox.dll
+C:\Users\Administrator\Desktop\RAK420扫描配置--中英文\RAK420 Config Tool\DialogBox\obj\Debug\DialogBox.pdb
+E:\工作资料\项目\wifi项目\RAK41X\RAK420扫描配置--中英文\RAK420 Config Tool\DialogBox\bin\Debug\DialogBox.dll
+E:\工作资料\项目\wifi项目\RAK41X\RAK420扫描配置--中英文\RAK420 Config Tool\DialogBox\bin\Debug\DialogBox.pdb
+E:\工作资料\项目\wifi项目\RAK41X\RAK420扫描配置--中英文\RAK420 Config Tool\DialogBox\obj\Debug\ResolveAssemblyReference.cache
+E:\工作资料\项目\wifi项目\RAK41X\RAK420扫描配置--中英文\RAK420 Config Tool\DialogBox\obj\Debug\DialogBox.dll
+E:\工作资料\项目\wifi项目\RAK41X\RAK420扫描配置--中英文\RAK420 Config Tool\DialogBox\obj\Debug\DialogBox.pdb
+C:\Users\qujin\Desktop\415工具\RAK420扫描配置--中英文\RAK420 Config Tool\DialogBox\bin\Debug\DialogBox.dll
+C:\Users\qujin\Desktop\415工具\RAK420扫描配置--中英文\RAK420 Config Tool\DialogBox\bin\Debug\DialogBox.pdb
+C:\Users\qujin\Desktop\415工具\RAK420扫描配置--中英文\RAK420 Config Tool\DialogBox\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\qujin\Desktop\415工具\RAK420扫描配置--中英文\RAK420 Config Tool\DialogBox\obj\Debug\DialogBox.dll
+C:\Users\qujin\Desktop\415工具\RAK420扫描配置--中英文\RAK420 Config Tool\DialogBox\obj\Debug\DialogBox.pdb
+C:\Users\qujin\Desktop\415工具\RAK415扫描配置--中英文--2014.3.22\RAK420 Config Tool\DialogBox\bin\Debug\DialogBox.dll
+C:\Users\qujin\Desktop\415工具\RAK415扫描配置--中英文--2014.3.22\RAK420 Config Tool\DialogBox\bin\Debug\DialogBox.pdb
+C:\Users\qujin\Desktop\415工具\RAK415扫描配置--中英文--2014.3.22\RAK420 Config Tool\DialogBox\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\qujin\Desktop\415工具\RAK415扫描配置--中英文--2014.3.22\RAK420 Config Tool\DialogBox\obj\Debug\DialogBox.dll
+C:\Users\qujin\Desktop\415工具\RAK415扫描配置--中英文--2014.3.22\RAK420 Config Tool\DialogBox\obj\Debug\DialogBox.pdb
+C:\Users\qujin\Desktop\RAK415\415扫描配置工具\RAK415扫描配置--PC\RAK415扫描配置--中英文--2014.3.22\RAK420 Config Tool\DialogBox\bin\Debug\DialogBox.dll
+C:\Users\qujin\Desktop\RAK415\415扫描配置工具\RAK415扫描配置--PC\RAK415扫描配置--中英文--2014.3.22\RAK420 Config Tool\DialogBox\bin\Debug\DialogBox.pdb
+C:\Users\qujin\Desktop\RAK415\415扫描配置工具\RAK415扫描配置--PC\RAK415扫描配置--中英文--2014.3.22\RAK420 Config Tool\DialogBox\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\qujin\Desktop\RAK415\415扫描配置工具\RAK415扫描配置--PC\RAK415扫描配置--中英文--2014.3.22\RAK420 Config Tool\DialogBox\obj\Debug\DialogBox.dll
+C:\Users\qujin\Desktop\RAK415\415扫描配置工具\RAK415扫描配置--PC\RAK415扫描配置--中英文--2014.3.22\RAK420 Config Tool\DialogBox\obj\Debug\DialogBox.pdb
+C:\Users\qujin\Desktop\RAK415扫描配置--中英文--2014.6.4--V1.4\RAK420 Config Tool\DialogBox\bin\Debug\DialogBox.dll
+C:\Users\qujin\Desktop\RAK415扫描配置--中英文--2014.6.4--V1.4\RAK420 Config Tool\DialogBox\bin\Debug\DialogBox.pdb
+C:\Users\qujin\Desktop\RAK415扫描配置--中英文--2014.6.4--V1.4\RAK420 Config Tool\DialogBox\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\qujin\Desktop\RAK415扫描配置--中英文--2014.6.4--V1.4\RAK420 Config Tool\DialogBox\obj\Debug\DialogBox.dll
+C:\Users\qujin\Desktop\RAK415扫描配置--中英文--2014.6.4--V1.4\RAK420 Config Tool\DialogBox\obj\Debug\DialogBox.pdb
+C:\Users\qujin\Desktop\RAK415\415扫描配置工具\RAK415扫描配置--PC\RAK415扫描配置--中英文--2014.6.4--V1.4\RAK420 Config Tool\DialogBox\bin\Debug\DialogBox.dll
+C:\Users\qujin\Desktop\RAK415\415扫描配置工具\RAK415扫描配置--PC\RAK415扫描配置--中英文--2014.6.4--V1.4\RAK420 Config Tool\DialogBox\bin\Debug\DialogBox.pdb
+C:\Users\qujin\Desktop\RAK415\415扫描配置工具\RAK415扫描配置--PC\RAK415扫描配置--中英文--2014.6.4--V1.4\RAK420 Config Tool\DialogBox\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\qujin\Desktop\RAK415\415扫描配置工具\RAK415扫描配置--PC\RAK415扫描配置--中英文--2014.6.4--V1.4\RAK420 Config Tool\DialogBox\obj\Debug\DialogBox.dll
+C:\Users\qujin\Desktop\RAK415\415扫描配置工具\RAK415扫描配置--PC\RAK415扫描配置--中英文--2014.6.4--V1.4\RAK420 Config Tool\DialogBox\obj\Debug\DialogBox.pdb
+E:\1.work project\Software\RAK\RAK415\RAK415配置工具\415扫描配置工具\RAK415扫描配置--PC\RAK415扫描配置--中英文--2014.10.16--V1.6\RAK415扫描配置--中英文--2014.6.12--V1.5\RAK420 Config Tool\DialogBox\bin\Debug\DialogBox.dll
+E:\1.work project\Software\RAK\RAK415\RAK415配置工具\415扫描配置工具\RAK415扫描配置--PC\RAK415扫描配置--中英文--2014.10.16--V1.6\RAK415扫描配置--中英文--2014.6.12--V1.5\RAK420 Config Tool\DialogBox\bin\Debug\DialogBox.pdb
+E:\1.work project\Software\RAK\RAK415\RAK415配置工具\415扫描配置工具\RAK415扫描配置--PC\RAK415扫描配置--中英文--2014.10.16--V1.6\RAK415扫描配置--中英文--2014.6.12--V1.5\RAK420 Config Tool\DialogBox\obj\Debug\ResolveAssemblyReference.cache
+E:\1.work project\Software\RAK\RAK415\RAK415配置工具\415扫描配置工具\RAK415扫描配置--PC\RAK415扫描配置--中英文--2014.10.16--V1.6\RAK415扫描配置--中英文--2014.6.12--V1.5\RAK420 Config Tool\DialogBox\obj\Debug\DialogBox.dll
+E:\1.work project\Software\RAK\RAK415\RAK415配置工具\415扫描配置工具\RAK415扫描配置--PC\RAK415扫描配置--中英文--2014.10.16--V1.6\RAK415扫描配置--中英文--2014.6.12--V1.5\RAK420 Config Tool\DialogBox\obj\Debug\DialogBox.pdb

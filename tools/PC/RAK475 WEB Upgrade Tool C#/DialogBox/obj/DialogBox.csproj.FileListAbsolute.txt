@@ -1,0 +1,5 @@
+D:\Download\Source\Menu\CenterDialog_Src\CodeProject\DialogBox\bin\Debug\DialogBox.dll
+D:\Download\Source\Menu\CenterDialog_Src\CodeProject\DialogBox\bin\Debug\DialogBox.pdb
+D:\Download\Source\Menu\CenterDialog_Src\CodeProject\DialogBox\obj\Debug\ResolveAssemblyReference.cache
+D:\Download\Source\Menu\CenterDialog_Src\CodeProject\DialogBox\obj\Debug\DialogBox.dll
+D:\Download\Source\Menu\CenterDialog_Src\CodeProject\DialogBox\obj\Debug\DialogBox.pdb
